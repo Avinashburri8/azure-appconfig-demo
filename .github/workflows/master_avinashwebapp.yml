@@ -61,4 +61,4 @@ jobs:
           app-name: 'avinashwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FFB32252D0745EE804C05BA2AF22E4C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_50DA4C52BF194D578D9D00416922E99B }}
